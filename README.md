@@ -1,10 +1,8 @@
-Sure, Zasem! Here's a detailed, personalized `README.md` guide just like the one you shared — but with your name mentioned and in a clean, well-structured format. This will be great for GitHub or learning documentation purposes.
 
----
 
-# Jenkins by Zasem
+# Jenkins by Zasim
 
-This guide is crafted and documented by **Zasem Neupane**, a DevOps enthusiast, to help beginners quickly get started with Jenkins on AWS EC2 with real-world setup instructions.
+This guide is crafted and documented by **Zasim Neupane**, a DevOps enthusiast, to help beginners quickly get started with Jenkins on AWS EC2 with real-world setup instructions.
 
 ---
 
@@ -156,7 +154,7 @@ You’ve installed Jenkins, exposed it to the internet, installed Docker, and co
 
 ---
 
-**Created with by [Zasem Neupane](https://github.com/iamzasem)**
+**Created with by [Zasim Neupane](https://github.com/iamzasem)**
 
 ---
 
